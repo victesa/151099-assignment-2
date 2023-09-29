@@ -1,0 +1,48 @@
+header{
+    background-color: darkslateblue;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+}
+
+#form{
+    position: relative;
+    padding-left: 500px;
+    padding-top: 30px;
+}
+
+#form h2{
+    font-size: 3rem;
+}
+
+#form label{
+    font-size: 1.5rem;
+}
+
+#email, #password{
+    width: 500px;
+    height: 35px;
+}
+
+h4{
+    margin-left: 48.5%;
+}
+
+#btnSignUp{
+    margin-left: 42.5%;
+    width: 200px;
+    height: 35px;
+}
+
+
+#submit{
+    width: 200px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
